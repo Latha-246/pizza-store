@@ -1,0 +1,173 @@
+.card {
+    width: 19rem; 
+    height: 36rem;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.card {
+    border: none; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+    background-color: #fff; 
+}
+
+
+.card:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+}
+
+
+.card-img-top {
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover; 
+    border-bottom: 1px solid #ddd;
+}
+
+
+.card-body {
+    padding: 1rem; 
+}
+
+
+.card-title {
+    font-size: 1.25rem; 
+    font-weight: bold; 
+    margin-bottom: 0.5rem;
+    font-family: bellmt;
+}
+
+.cart {
+    margin-top: 2rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.cart h3 {
+    margin-bottom: 1rem;
+}
+
+.cart ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.cart li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.cart p {
+    font-style: italic;
+}
+
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+
+.card-text {
+    font-size: 1rem; 
+    color: #555; 
+    margin-bottom: 0.5rem; 
+    font-family: casteller;
+}
+.para{
+    font-family: bellmt;
+    font-size: 40px;
+    
+}
+
+.filter-sort-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.filter-controls,
+.sort-controls {
+    display: flex;
+    align-items: center;
+}
+
+
+.filter-controls label,
+.sort-controls label {
+    margin-right: 0.5rem;
+    font-weight: bold;
+}
+
+
+.filter-controls select,
+.sort-controls select {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    font-size: 1rem;
+    margin-right: 1rem;
+}
+
+
+.filter-controls select:focus,
+.sort-controls select:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+
+@media (max-width: 768px) {
+    .filter-sort-controls {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .filter-controls,
+    .sort-controls {
+        margin-bottom: 1rem;
+    }
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    margin-top: 10px; /* Adds space above the Add to Cart button */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+
+.card-body .btn {
+    margin-left: 20px;
+}
+
+
+
+.card-body .btn-primary {
+    margin-top: 20px; 
+    margin-left: 40px; 
+    display: block; 
+}

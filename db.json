@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "image": "https://images.ricardocuisine.com/services/recipes/pizza-1498148703.jpg",
+      "name": "Margherita Pizza",
+      "price": 398,
+      "ingredients": "Tomato,Mozzarella,Basil,Pizza Dough,Fresh Basil Leaves",
+      "size": "Medium",
+      "description": "Classic Margherita Pizza with fresh tomato, mozzarella.",
+      "id": "1"
+    },
+
+    {
+      "image": "https://th.bing.com/th/id/OIP.Hk_8DGzWZud9hZZ35WTgnQHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain",
+      "name": "Pepperoni Pizza",
+      "price": 938,
+      "ingredients": "Pepperoni,Herbs,Pizza Dough,oliva oil",
+      "size": "medium",
+      "description": "Delicious Pepperoni Pizza with generous toppings of pepperoni.",
+      "id": "2"
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.icdKPGX6kpV8d6WhqVPfVwHaLG?rs=1&pid=ImgDetMain",
+      "name": "Veggie Pizza",
+      "price": 729,
+      "ingredients": "Tomato,Mozzarella,Bell Peppers,Onions,Olives,masala",
+      "size": "Large",
+      "description": "A pizza loaded with fresh vegetables including bell peppers, onions, and olives.",
+      "id": "3"
+    },
+    {
+      "image": "https://www.aberdeenskitchen.com/wp-content/uploads/2017/05/BBQ-Chicken-Pizza-9-680x1024.jpg",
+      "name": "BBQ Chicken Pizza",
+      "price": 799,
+      "ingredients": "BBQSauce,Chicken,Onions,Cilantro",
+      "size": "Large",
+      "description": "A tasty BBQ Chicken Pizza topped with chicken, onions, and cilantro.",
+      "id": "4"
+    },
+    {
+      "image": "https://www.thespruceeats.com/thmb/Tqmt7oH8AMjDWQHCSa93hE4TPe8=/2998x1999/filters:fill(auto,1)/IMG_4618fhor-a98bebf4c7e743a8bbfd6071b5dafc12.jpg",
+      "name": "Hawaiian Pizza",
+      "price": 325,
+      "ingredients": "Tomato,Ham,Pineapple",
+      "size": "Medium",
+      "description": "A delightful combination of ham and pineapple on a cheesy pizza.",
+      "id": "5"
+    },
+    {
+      "image": "https://66.media.tumblr.com/9dd913bdf08e664ab521e5c89b60d52a/tumblr_mhuy9iZw3U1qaldqfo1_640.jpg",
+      "name": "Four Cheese Pizza",
+      "price": 839,
+      "ingredients": "Tomato,Mozzarella,Cheddar,Parmesan,Gorgonzola",
+      "size": "Large",
+      "description": "A rich and creamy pizza topped with four kinds of cheese.",
+      "id": "6"
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.meBDukU75pmumuxIXJ1KTgAAAA?rs=1&pid=ImgDetMain",
+      "name": "Pesto Pizza",
+      "price": 548,
+      "ingredients": "Pesto Sauce,Mozzarella,Cherry Tomatoes,Pine Nuts,Mozzarella",
+      "size": "Large",
+      "description": "A flavorful pizza with fresh pesto sauce and pine nuts.",
+      "id": "7"
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.08FJd2Eoyrvs6ytHN70T8wHaE6?rs=1&pid=ImgDetMain",
+      "name": "Seafood Pizza",
+      "price": 459,
+      "ingredients": "Tomato,Shrimp,Calamari,Garlic",
+      "size": "Large",
+      "description": "A delightful seafood pizza with shrimp and calamari.",
+      "id": "8"
+    },
+    {
+      "image": "https://www.dominos.com.au/ManagedAssets/AU/product/P416/AU_P416_en_hero_8590.jpg?v-531245658",
+      "name": "Cheese n Tomato Pizza",
+      "price": 309,
+      "ingredients": "Tomato, Mozzarella,, Tomato Sauce, Oregano",
+      "size": "Large",
+      "description": "A classic favorite topped with rich tomato sauce, and cheddar cheese, garnished with fresh tomato slices and a sprinkle of oregano.",
+      "id": "7bbb"
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.LtcAQ3ndKkZO7LVmruEdbgHaFj?rs=1&pid=ImgDetMain",
+      "name": "Chicken Fiesta Pizza",
+      "price": 459,
+      "ingredients": "chicken,peppers,onions,Jalapeños",
+      "size": "Medium",
+      "description": "A delicious pizza topped with seasoned chicken, fresh peppers, and onions.",
+      "id": "b2b9"
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.OVPZRBTA7G-KTUrSdKIHJQHaE2?w=285&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Creamy Tomato Pasta Pizza",
+      "price": 229,
+      "ingredients": "Creamy Tomato Sauce,Penne Pasta,Parmesan,Fresh Basil,Mozzarella",
+      "size": "small",
+      "description": "Indulge in our Creamy Tomato Pasta Pizza, a delightful fusion of Italian flavors.",
+      "id": "58c2"
+    },
+    {
+      "image": "https://img.delicious.com.au/a6_fDfcD/w1200/del/2015/10/moroccan-lamb-pizza-12001-1.jpg",
+      "name": "Moroccan Spice Pasta Pizza",
+      "price": 399,
+      "ingredients": "Harissa Tomato Sauce,Spaghetti Pasta,Caramelized Onions,Grilled Chicken,Cilantro",
+      "size": "Medium",
+      "description": "Experience a taste of Morocco with our Moroccan Spice Pasta Pizza",
+      "id": "76cd"
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.wQSvLK_fC3cMpZrnrEL0FgHaE8?rs=1&pid=ImgDetMain",
+      "name": "Indi Chicken Tikka Pizza",
+      "price": 839,
+      "ingredients": "Tikka Masala Sauce,Grilled Chicken Tikka, Onions, Bell Peppers,Fresh Coriander",
+      "size": "Large",
+      "description": "Savor the rich flavors of India with our Indi Chicken Tikka Pizza.",
+      "id": "bc85"
+    },
+    {
+      "id": "de38",
+      "image": "https://th.bing.com/th/id/OIP.V7HQB8M-PaU-OajBgcE2xwAAAA?rs=1&pid=ImgDetMain",
+      "name": "Paneer Makhani Pizza",
+      "price": 249,
+      "ingredients": "Makhani Sauce,Paneer Cubes,Mozzarella Cheese,Red Onions,Capsicum",
+      "size": "Small",
+      "description": "Delight in the creamy richness of our Paneer Makhani Pizza"
+    },
+    {
+      "id": "f519",
+      "image": "https://i.ytimg.com/vi/lfr-JqfKE-k/maxresdefault.jpg",
+      "name": "Keema Do Pyaza Pizza",
+      "price": 189,
+      "ingredients": "Spiced Keema,Tomato Sauce,Sliced Onions,Green Chilies,Fresh Coriander\"",
+      "size": "Small",
+      "description": "Enjoy the savory flavors of our Keema Do Pyaza Pizza"
+    },
+    {
+      "id": "42ff",
+      "image": "https://i.ytimg.com/vi/azgLYYjnFwU/maxresdefault.jpg",
+      "name": "Achari Do Pyaza Pizza",
+      "price": 309,
+      "ingredients": "Achari Sauce,Paneer Cubes,Mozzarella,Sliced Onions,Bell Peppers,Coriander",
+      "size": "Medium",
+      "description": "Experience a burst of tangy and spicy flavors with our Achari Do Pyaza Pizza"
+    }
+  ]
+}

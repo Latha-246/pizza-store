@@ -1,0 +1,31 @@
+.fly{
+    height: 450px;
+    width: 1450px;
+}
+
+.para1 {
+    font-size: 4rem; 
+    font-family: Engravers MT;
+    font-weight: bold;
+    background: linear-gradient(to right, #de1c1c, #580303); 
+    -webkit-background-clip: text; 
+    background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    
+}
+.para2{
+    font-size: 2.5rem; 
+    font-family: bell MT;
+    font-style: italic;
+    font-weight: bold;
+    background: linear-gradient(to right, #353058, #1696c4); 
+    -webkit-background-clip: text; 
+    background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+}
+
+.hero-color{
+    background-color: rgba(244, 232, 240, 0.685);
+}
+
+   
